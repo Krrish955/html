@@ -1,0 +1,22 @@
+h1{
+    color:blue;
+    
+    }
+    *{
+        border:solid;
+    
+    }
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-between
+
+}    
+
+
+.menu{
+    background-color: aquamarine;
+    display:flex;
+    justify-content:space-between
+
+}    
